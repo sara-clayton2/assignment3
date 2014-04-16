@@ -73,7 +73,7 @@ a:visited {
 } 
 
 h1 { 
-    font-weight: normal; 
+    font-weight: lighter;
     text-align: center; 
     background-color: #FFE4E1;
     padding: .05rem 2%;
